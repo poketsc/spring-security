@@ -1,0 +1,7 @@
+
+
+dependencies {
+
+implementation project(path: ':comp-common-utils')
+}
+
